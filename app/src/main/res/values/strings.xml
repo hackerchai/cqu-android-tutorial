@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">我为长者续一秒</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">闷声发大财</string>
+    <string name="nav_header_subtitle">https://angry.im</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_bar_title1">我一句话不说也不好</string>
+    <string name="action_settings">设置</string>
+    <string name="main_activity_intro">
+        江河湖海汹涌澎湃\n\n上海自来水来自海上\n\n天增岁月人增寿
+    </string>
+    <string name="main_activity_button_launch_activity_about">谁增寿？</string>
+    <string name="main_activity_fab_button_snackbar_text">你已经为虵贡献了%1$d秒生命</string>
+    <string name="title_activity_about">about</string>
+    <string name="about_activity_textview_question">告诉我一个字</string>
+    <string name="about_activity_button3_text">呱</string>
+    <string name="about_activity_snackbar_text_success">苟利国家生死以，起因福祸避趋之</string>
+    <string name="about_activity_snackbar_text_failure">就是说你呀，还要提高姿势水平！</string>
+</resources>
